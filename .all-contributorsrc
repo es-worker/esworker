@@ -1,6 +1,6 @@
 {
   "projectName": "esworker",
-  "projectOwner": "@esworker",
+  "projectOwner": "es-worker",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -70,6 +70,24 @@
         "maintenance",
         "platform",
         "projectManagement",
+        "review",
+        "test"
+      ]
+    },
+    {
+      "login": "santoshyadavdev",
+      "name": "Santosh Yadav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11923975?v=4",
+      "profile": "https://www.santoshyadav.dev/",
+      "contributions": [
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
         "review",
         "test"
       ]
