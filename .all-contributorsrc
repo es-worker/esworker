@@ -55,6 +55,24 @@
         "review",
         "test"
       ]
+    },
+    {
+      "login": "NachoVazquez",
+      "name": "Nacho Vazquez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9338604?v=4",
+      "profile": "https://github.com/NachoVazquez",
+      "contributions": [
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "platform",
+        "projectManagement",
+        "review",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7
