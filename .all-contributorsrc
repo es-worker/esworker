@@ -1,0 +1,40 @@
+{
+  "projectName": "esworker",
+  "projectOwner": "@esworker",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "SerkanSipahi",
+      "name": "Bitcollage",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1880749?v=4",
+      "profile": "https://www.linkedin.com/in/serkan-sipahi-59b20081/",
+      "contributions": [
+        "blog",
+        "bug",
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "review",
+        "test",
+        "tool",
+        "tutorial",
+        "userTesting"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
