@@ -23,7 +23,8 @@
     "update": "nx migrate latest",
     "workspace-generator": "nx workspace-generator",
     "dep-graph": "nx dep-graph",
-    "help": "nx help"
+    "help": "nx help",
+    "sort-projects": "json -I -f workspace.json -e \"this.projects = Object.fromEntries(Object.entries(this.projects).sort(([a], [b]) => (a < b) ? -1 : (a > b) ? 1 : 0));\" && json -I -f nx.json -e \"this.projects = Object.fromEntries(Object.entries(this.projects).sort(([a], [b]) => (a < b) ? -1 : (a > b) ? 1 : 0));\""
   },
   "private": true,
   "devDependencies": {
@@ -34,6 +35,7 @@
     "@types/node": "12.12.38",
     "dotenv": "6.2.0",
     "eslint": "7.18.0",
+    "json": "^10.0.0",
     "prettier": "2.2.1",
     "ts-node": "~9.1.1",
     "typescript": "~4.0.5"

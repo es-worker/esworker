@@ -6,6 +6,7 @@ devDependencies:
   '@types/node': 12.12.38
   dotenv: 6.2.0
   eslint: 7.18.0
+  json: 10.0.0
   prettier: 2.2.1
   ts-node: 9.1.1_typescript@4.0.5
   typescript: 4.0.5
@@ -1063,6 +1064,13 @@ packages:
     dev: true
     resolution:
       integrity: sha1-nbe1lJatPzz+8wp1FC0tkwrXJlE=
+  /json/10.0.0:
+    dev: true
+    engines:
+      node: '>=0.10.0'
+    hasBin: true
+    resolution:
+      integrity: sha512-iK7tAZtpoghibjdB1ncCWykeBMmke3JThUe+rnkD4qkZaglOIQ70Pw7r5UJ4lyUT+7gnw7ehmmLUHDuhqzQD+g==
   /jsonfile/4.0.0:
     dev: true
     optionalDependencies:
@@ -1956,6 +1964,7 @@ specifiers:
   '@types/node': 12.12.38
   dotenv: 6.2.0
   eslint: 7.18.0
+  json: ^10.0.0
   prettier: 2.2.1
   ts-node: ~9.1.1
   typescript: ~4.0.5
