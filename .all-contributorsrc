@@ -34,6 +34,27 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "LayZeeDK",
+      "name": "Lars Gyrup Brink Nielsen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6364586?v=4",
+      "profile": "https://dev.to/layzee",
+      "contributions": [
+        "blog",
+        "bug",
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "projectManagement",
+        "review",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7
